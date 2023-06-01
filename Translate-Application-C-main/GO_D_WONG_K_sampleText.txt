@@ -1,0 +1,20 @@
+English: watched
+Tagalog: nood
+Chinese: kan
+
+English: forest
+Tagalog: gubat
+Chinese: lin
+
+English: hill
+Tagalog: munting bundok
+Chinese: xiao shan
+
+English: hello
+Chinese: ni hao
+Korean: anyeong
+Tagalog: kamusta
+
+English: love
+Tagalog: mahal
+Chinese: ai
